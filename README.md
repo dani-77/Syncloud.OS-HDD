@@ -1,7 +1,7 @@
 # Syncloud.OS-HDD
 Install in a "new" old computer HDD or SSD
 
-Download the OS image x64 Syncloud OS from here https://github.com/syncloud/platform/wiki and and write it to a USB flash drive following the instructions in the same page;
+Download the OS image x64 Syncloud OS from here https://github.com/syncloud/platform/wiki and write it to a USB flash drive following the instructions in the same page;
 Start the computer with the USB (select the appropriate boot device from your computer BIOS);
 Login with default credentials for non-activated device. Login: root, password: syncloud ;
 
